@@ -1,0 +1,378 @@
+[ 2017-09-04T09:15:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/lang/zh-cn/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/themes/default/css/ueditor.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/zeroclipboard/ZeroClipboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/lang/zh-cn/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/themes/default/css/ueditor.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/zeroclipboard/ZeroClipboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:53:22+08:00 ] 127.0.0.1 /Public/Admin/js/images/image.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/themes/default/css/ueditor.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008915s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/zeroclipboard/ZeroClipboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/lang/zh-cn/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002530s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/lang/zh-cn/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/themes/default/css/ueditor.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/zeroclipboard/ZeroClipboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:55:24+08:00 ] 127.0.0.1 /Public/Admin/js/images/image.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:15+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:15+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:15+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:15+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:15+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/lang/zh-cn/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:15+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/zeroclipboard/ZeroClipboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:16+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:16+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:16+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/lang/zh-cn/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:16+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/themes/default/css/ueditor.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:16+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:16+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/zeroclipboard/ZeroClipboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:16+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:57:16+08:00 ] 127.0.0.1 /Public/Admin/js/images/image.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/lang/zh-cn/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/themes/default/css/ueditor.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/zeroclipboard/ZeroClipboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/ueditor.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/lang/zh-cn/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/themes/default/css/ueditor.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/codemirror/codemirror.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/utf8-jsp/third-party/zeroclipboard/ZeroClipboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T09:59:04+08:00 ] 127.0.0.1 /Public/Admin/js/images/image.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-04T10:25:46+08:00 ] 127.0.0.1 /newshtml5/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Newshtml5
+
+[ 2017-09-04T11:01:37+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-09-04T11:21:45+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-09-04T11:45:35+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+ERR: 无法加载模块:Favicon
+
